@@ -1,6 +1,6 @@
 ## Regularized logistic regression and decision boundary
 
-An exercise in french to build with logistic regression Decision boundaries associated to 2D data, which is a good way to understand the concepts of Bias and Variance.
+An exercise in french to build Decision boundaries with logistic regression associated to 2D data, which is a good way to understand the concepts of Bias and Variance.
 This exercise presents with a training set :
 - how to explore 2D data
 - how to build polynomial logistic regression by creating from scratch polynomial features
