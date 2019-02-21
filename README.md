@@ -1,4 +1,4 @@
-**Regularized logistic regression and decision boundary**
+## Regularized logistic regression and decision boundary
 
 Exercise in french to build decision boundary with logistic regression
 Decision boundaries associated to 2D data, are a good way to understand the concepts Bias and Variance.
