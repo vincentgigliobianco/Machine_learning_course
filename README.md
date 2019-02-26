@@ -1,3 +1,7 @@
+## A course presentation including :
+-  maths notions for gradient descent, regression and logistic regression
+- gradient descent and regression and logistic regression
+
 ## Regularized logistic regression and decision boundary
 
 An exercise in french to build Decision boundaries with logistic regression associated to 2D data, which is a good way to understand the concepts of Bias and Variance.
