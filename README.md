@@ -1,4 +1,4 @@
-## A course presentation including :
+## A course presentation in french including :
 -  maths notions for linear regression, logistic regression and gradient descent
 - linear regression, logistic regression and gradient descent
 
