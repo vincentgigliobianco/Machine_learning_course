@@ -1,6 +1,6 @@
 ## A course presentation including :
--  maths notions for gradient descent, regression and logistic regression
-- gradient descent and regression and logistic regression
+-  maths notions for linear regression, logistic regression and gradient descent
+- linear regression, logistic regression and gradient descent
 
 ## Regularized logistic regression and decision boundary
 
