@@ -1,6 +1,6 @@
 ## A course presentation in french including :
--  maths notions for linear regression, logistic regression and gradient descent
-- linear regression, logistic regression, regularization and gradient descent
+-  maths notions for this course
+- linear regression, logistic regression, gradient descent and regularization
 
 ## Regularized logistic regression and decision boundary
 
